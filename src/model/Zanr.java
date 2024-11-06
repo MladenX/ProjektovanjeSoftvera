@@ -9,5 +9,5 @@ package model;
  * @author Mladen
  */
 public enum Zanr {
-    ROMAN, POEZIJA, ISTORIJSKI, NAUCNA_FANTASTIKA, DETEKTIVSKI;
+    ROMAN, POEZIJA, ISTORIJSKI, NAUCNA_FANTASTIKA, DETEKTIVSKI, Novel, Tragedy, Historical;
 }
